@@ -1,123 +1,44 @@
 ---
 layout: default
 ---
+## Introducing MACKS – The Pepe of the Sea Cryptocurrency
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Dive into the revolutionary world of MACKS, where ocean charm meets cutting-edge finance. MACKS, inspired by Mackerel, the "Pepe of the Sea," merges tradition with innovation.
 
-[Link to another page](./another-page.html).
+## Key Features:
 
-There should be whitespace between paragraphs.
+Symbolic Significance: Embrace MACKS, encapsulating the essence of sleek, silver-scaled Mackerel. Navigate the crypto market with the symbolism of the Pepe of the Sea.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Global Influence:** Like the Mackerel fishing industry fueling nations, MACKS transcends borders, offering a global platform for financial transactions. Join a community appreciating the universal impact of this aquatic currency.
 
-# Header 1
+**Innovative Trading:** Ride the waves of the digital marketplace with MACKS. Stemming from ingenious use of Mackerel as a prison currency, it's evolved into a global trading frontier. Seize opportunities as MACKS charts new financial territories.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Economic Resurgence:** More than currency, MACKS is a catalyst for economic growth. Explore the industry boom as fishermen invest in advanced technologies, creating a ripple effect of prosperity for coastal communities.
 
-## Header 2
+**Adaptation and Innovation:** MACKS tells the untold story of Mackerel's journey from culinary staple to financial symbol. Be part of a currency symbolizing adaptation and innovation, proving even humble creatures can shape significant change.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Join the MACKS Revolution:
 
-### Header 3
+Whether you're an investor seeking new horizons or a crypto enthusiast captivated by Mackerel's story, MACKS offers a unique opportunity. Dive into the waves of financial evolution with MACKS – where the Pepe of the Sea meets the future of currency.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## How to Whitelist
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Join Telegram
+download metamask or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to metamask.io.
 
 
-### Definition lists can be used with HTML syntax.
+### Ask to join the Whitelist
+have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## How to Buy
+### Create a Wallet
+download metamask or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to metamask.io.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+### Get Some ETH
+have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
+
+### Swap MACKS
+Once MACKS are live, our liquidity pool will be hosted on Camelot dex and the link to it will be uploaded on this page.
+For now, Join Telegram to Whitelist! t.me/macks_erc20
+
