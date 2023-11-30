@@ -30,19 +30,27 @@ Join our exclusive community where enthusiasts, investors, and crypto degens con
 
 
 ### Ask to join the Whitelist
-Joining the MACKS whitelist is a breeze – simply dive into our Telegram community and express your interest to join!
+Joining the MACKS whitelist is a breeze – simply dive into our Telegram community  
+and express your interest to join! https://t.me/Macks_ERC20/
+  
 [![tg](/assets/macks16.png)](https://t.me/Macks_ERC20/)
 
-## How to Buy
-### Add Arbitrum to Metamask
-Download metamask if you havent already, then to add arbitrum visit https://chainlist.org/chain/42161 click "add" and it will connect your metamask to the Arbitrum network, one of the largest L2s in Ethereum. This will massively reduce fees and protect against MEV.
+## Roadmap
+### Socials
+TG, Twitter and website created. Congratulations youre already here.
 
-### Get Some ETH
-Have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet. If you need to bridge to Arbitrum, use this link https://bridge.arbitrum.io/
+### Liquidity Offer
+Whitelisted participants join the ILO to fundraise the initial liquidity pool and gather around the project.
  
-### Swap $MACKS
-Once $MACKS are live, our liquidity pool will be hosted on Camelot dex and the link to it will be uploaded on this page.
-For now, Join Telegram to Whitelist! t.me/macks_erc20
+### List on CMC and Coingecko
+This is already underway. Join our community page here. https://coinmarketcap.com/community/profile/MacksERC20/
+
+### Create / Share memes
+This is absolutely key.
+
+### MemeDEX 
+If we absolutely moon we'll create a DEX.
+
 
 ## Official Links
 [![tg](/assets/macksbuttontg.PNG)](https://t.me/Macks_ERC20/)
