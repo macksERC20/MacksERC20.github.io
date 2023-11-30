@@ -46,7 +46,7 @@ Once $MACKS are live, our liquidity pool will be hosted on Camelot dex and the l
 For now, Join Telegram to Whitelist! t.me/macks_erc20
 
 ## Official Links
-
-[![x](/assets/macksbuttonx.PNG)](https://www.x.com/MacksERC20/)
 [![tg](/assets/macksbuttontg.PNG)](https://t.me/Macks_ERC20/)
+[![x](/assets/macksbuttonx.PNG)](https://www.x.com/MacksERC20/)
+
 $MACKS is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.
