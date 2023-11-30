@@ -3,27 +3,25 @@ layout: default
 ---
 ## Introducing $MACKS
 
-Dive into the revolutionary world of MACKS, where ocean charm meets cutting-edge finance. MACKS, inspired by Mackerel, the "Pepe of the Sea," merges tradition with innovation.
+The most memeable memecoin under the sea. $MACKS, inspired by Mackerel, are the "Pepe of the Sea," its time for Mackerel to take reign
 
 ![Macks](/assets/MacksERC20-Header.png)
 
 ## Key Features:
 
-Symbolic Significance: Embrace MACKS, encapsulating the essence of sleek, silver-scaled Mackerel. Navigate the crypto market with the symbolism of the Pepe of the Sea.
+Symbolic Significance: Embrace $MACKS, encapsulating the essence of sleek, silver-scaled Mackerel. Navigate the crypto market with the symbolism of the Pepe of the Sea.
 
-**Global Influence:** Like the Mackerel fishing industry fueling nations, MACKS transcends borders, offering a global platform for financial transactions. Join a community appreciating the universal impact of this aquatic currency.
+**Global Influence:** $MACKS offer a global platform for transactions. Join a fun community appreciating comradery, positivity and a good laugh.
 
-**Innovative Trading:** Ride the waves of the digital marketplace with MACKS. Stemming from ingenious use of Mackerel as a prison currency, it's evolved into a global trading frontier. Seize opportunities as MACKS charts new financial territories.
+**Innovative Trading:** Stemming from ingenious use of Mackerel as a currency among people with limited freedoms, we're here to break the confines of cages and walls and evolve into a global trading frontier. Seize the opportunity with $MACKS as we chart new financial territories.
 
-**Economic Resurgence:** More than currency, MACKS is a catalyst for economic growth. Explore the industry boom as fishermen invest in advanced technologies, creating a ripple effect of prosperity for coastal communities.
-
-**Adaptation and Innovation:** MACKS tells the untold story of Mackerel's journey from culinary staple to financial symbol. Be part of a currency symbolizing adaptation and innovation, proving even humble creatures can shape significant change.
+**Social Revolution** $MACKS is a coin for the people, forever. Fueled by pure meme-power, chart a course for $MACKS!
 
 ![Macks](/assets/macks18.png)
 
-## Join the MACKS Revolution:
+## Join the $MACKS Revolution:
 
-Whether you're an investor seeking new horizons or a crypto enthusiast captivated by Mackerel's story, MACKS offers a unique opportunity. Dive into the waves of financial evolution with MACKS – where the Pepe of the Sea meets the future of currency.
+Whether you're an investor seeking new horizons or a crypto enthusiast captivated by Mackerel's story, $MACKS offers a unique opportunity. Dive into the waves of financial evolution with $MACKS – where the Pepe of the Sea meets the future of currency.
 
 ## How to Whitelist
 
@@ -44,12 +42,12 @@ download metamask or your wallet of choice from the app store or google play sto
 ### Get Some ETH
 have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
 
-### Swap MACKS
-Once MACKS are live, our liquidity pool will be hosted on Camelot dex and the link to it will be uploaded on this page.
+### Swap $MACKS
+Once $MACKS are live, our liquidity pool will be hosted on Camelot dex and the link to it will be uploaded on this page.
 For now, Join Telegram to Whitelist! t.me/macks_erc20
-
-![Macks](/assets/macks8.png)
 
 ## Official Links
 
-
+[![x](/assets/macksbuttonx.PNG)](https://www.x.com/MacksERC20/)
+[![tg](/assets/macksbuttontg.PNG)](https://t.me/Macks_ERC20/)
+$MACKS is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.
