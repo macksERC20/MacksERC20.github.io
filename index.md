@@ -26,22 +26,21 @@ Whether you're an investor seeking new horizons or a crypto enthusiast captivate
 ## How to Whitelist
 
 ### Join Telegram
-download metamask or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to metamask.io.
+Join our exclusive community where enthusiasts, investors, and crypto degens converge to ride the waves of the Mackerel
 
 
 ### Ask to join the Whitelist
-have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
+Joining the MACKS whitelist is a breeze – simply dive into our Telegram community and express your interest to join!
 
 ![Macks](/assets/macks16.png)
 
 ## How to Buy
-### Create a Wallet
-download metamask or your wallet of choice from the app store or google play store for free. Desktop users, download the google chrome extension by going to metamask.io.
-
+### Add Arbitrum to Metamask
+Download metamask if you havent already, then to add arbitrum visit https://chainlist.org/chain/42161 click "add" and it will connect your metamask to the Arbitrum network, one of the largest L2s in Ethereum. This will massively reduce fees and protect against MEV.
 
 ### Get Some ETH
-have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet.
-
+Have ETH in your wallet to switch to $MACKS. If you don’t have any ETH, you can buy directly on metamask, transfer from another wallet, or buy on another exchange and send it to your wallet. If you need to bridge to Arbitrum, use this link https://bridge.arbitrum.io/
+ 
 ### Swap $MACKS
 Once $MACKS are live, our liquidity pool will be hosted on Camelot dex and the link to it will be uploaded on this page.
 For now, Join Telegram to Whitelist! t.me/macks_erc20
