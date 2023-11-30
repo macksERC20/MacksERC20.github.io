@@ -31,8 +31,7 @@ Join our exclusive community where enthusiasts, investors, and crypto degens con
 
 ### Ask to join the Whitelist
 Joining the MACKS whitelist is a breeze – simply dive into our Telegram community and express your interest to join!
-
-![Macks](/assets/macks16.png)
+[![tg](/assets/macks16.png)](https://t.me/Macks_ERC20/)
 
 ## How to Buy
 ### Add Arbitrum to Metamask
